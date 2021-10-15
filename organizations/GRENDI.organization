@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1" name="GRENDI">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="andrea.caccioni">
+      <firstName>Andrea</firstName>
+      <lastName>Caccioni</lastName>
+      <title>Sig.</title>
+      <jobTitle>Commerciale</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>andrea.caccioni@grendi.it</email>
+        <phoneNumber>05189029.05</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Blocco 2.3C Interporto</address>
+        <zipCode>40010</zipCode>
+        <city>Bologna</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="giulia.mantovani">
+      <firstName>Giulia</firstName>
+      <lastName>Mantovani</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>Amministrativo</jobTitle>
+      <manager>andrea.caccioni</manager>
+      <personalData/>
+      <professionalData>
+        <email>giulia.mantovani@grendi.it</email>
+        <phoneNumber>05189029.04</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Blocco 2.3C Interporto</address>
+        <zipCode>40010</zipCode>
+        <city>Bologna</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="guglielmo.tarantino">
+      <firstName>Guglielmo</firstName>
+      <lastName>Tarantino</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>andrea.caccioni</manager>
+      <personalData/>
+      <professionalData>
+        <email>guglielmo.tarantino@grendi.it</email>
+        <phoneNumber>05189029.16</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Blocco 2.3C Interporto</address>
+        <zipCode>40010</zipCode>
+        <city>Bologna</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="angelo.melis">
+      <firstName>Angelo</firstName>
+      <lastName>Melis</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>emanuele.demetrino</manager>
+      <personalData/>
+      <professionalData>
+        <email>angelo.melis@grendi.it</email>
+        <phoneNumber>0702016.8205</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Località Porto Canale</address>
+        <zipCode>09123</zipCode>
+        <city>Cagliari</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="antonio.musso">
+      <firstName>Antonio</firstName>
+      <lastName>Musso</lastName>
+      <title>Sig.</title>
+      <jobTitle>CEO</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>antonio.musso@grendi.it</email>
+        <phoneNumber>0702016.5203</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Località Porto Canale</address>
+        <zipCode>09123</zipCode>
+        <city>Cagliari</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="emanuele.demetrino">
+      <firstName>Emanuele</firstName>
+      <lastName>Demetrino</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>emanuele.demetrino@grendi.it</email>
+        <phoneNumber>0702016.8209</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Località Porto Canale</address>
+        <zipCode>09123</zipCode>
+        <city>Cagliari</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="roberto.leoni">
+      <firstName>Roberto</firstName>
+      <lastName>Leoni</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>emanuele.demetrino</manager>
+      <personalData/>
+      <professionalData>
+        <email>roberto.leoni@grendi.it</email>
+        <phoneNumber>0702016.5224</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Località Porto Canale</address>
+        <zipCode>09123</zipCode>
+        <city>Cagliari</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="emilio.rizzo">
+      <firstName>Emilio</firstName>
+      <lastName>Rizzo</lastName>
+      <title>Sig.</title>
+      <jobTitle>Commerciale</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>emilio.rizzo@grendi.it</email>
+        <phoneNumber>0107230.530</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via degli Artigiani, 58</address>
+        <zipCode>16162</zipCode>
+        <city>Genova Bolzaneto</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="enrico.scalzi">
+      <firstName>Enrico</firstName>
+      <lastName>Scalzi</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>emilio.rizzo</manager>
+      <personalData/>
+      <professionalData>
+        <email>enrico.scalzi@grendi.it</email>
+        <phoneNumber>0107230.516</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via degli Artigiani, 58</address>
+        <zipCode>16162</zipCode>
+        <city>Genova Bolzaneto</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="guido.calvi">
+      <firstName>Guido</firstName>
+      <lastName>Calvi</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>emilio.rizzo</manager>
+      <personalData/>
+      <professionalData>
+        <email>guido.calvi@grendi.it</email>
+        <phoneNumber>0107230.512</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via degli Artigiani, 58</address>
+        <zipCode>16162</zipCode>
+        <city>Genova Bolzaneto</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="irene.sassanelli">
+      <firstName>Irene</firstName>
+      <lastName>Sassanelli</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>Amministrativo</jobTitle>
+      <manager>sabrina.passione</manager>
+      <personalData/>
+      <professionalData>
+        <email>irene.sassanelli@grendi.it</email>
+        <phoneNumber>0106598.202</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via di Sottoripa, 1</address>
+        <zipCode>16124</zipCode>
+        <city>Genova</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="sabrina.passione">
+      <firstName>Sabrina</firstName>
+      <lastName>Passione</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>Amministrativo</jobTitle>
+      <manager>antonio.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>sabrina.passione@grendi.it</email>
+        <phoneNumber>0106598.203</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via di Sottoripa, 1</address>
+        <zipCode>16124</zipCode>
+        <city>Genova</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="severina.puddu">
+      <firstName>Severina</firstName>
+      <lastName>Puddu</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>Amministrativo</jobTitle>
+      <manager>sabrina.passione</manager>
+      <personalData/>
+      <professionalData>
+        <email>severina.puddu@grendi.it</email>
+        <phoneNumber>0106598.206</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via di Sottoripa, 1</address>
+        <zipCode>16124</zipCode>
+        <city>Genova</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="simona.casto">
+      <firstName>Simona</firstName>
+      <lastName>Casto</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>HR</jobTitle>
+      <manager>antonio.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>simona.casto@grendi.it</email>
+        <phoneNumber>0106598.275</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via di Sottoripa, 1</address>
+        <zipCode>16124</zipCode>
+        <city>Genova</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="luca.ferrando">
+      <firstName>Luca</firstName>
+      <lastName>Ferrando</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>antonio.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>luca.ferrando@grendi.it</email>
+        <phoneNumber>0585632602</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Viale Giovanni da Verrazzano, varco portuale di Levante</address>
+        <zipCode>54033</zipCode>
+        <city>Marina di Carrara</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="giulio.assente">
+      <firstName>Giulio</firstName>
+      <lastName>Assente</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>luca.ferrando</manager>
+      <personalData/>
+      <professionalData>
+        <email>giulio.assente@grendi.it</email>
+        <phoneNumber>0585632602</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Viale Giovanni da Verrazzano, varco portuale di Levante</address>
+        <zipCode>54033</zipCode>
+        <city>Marina di Carrara</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="pasquale.surace">
+      <firstName>Pasquale</firstName>
+      <lastName>Surace</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>luca.ferrando</manager>
+      <personalData/>
+      <professionalData>
+        <email>pasquale.surace@grendi.it</email>
+        <phoneNumber>0585632602</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Viale Giovanni da Verrazzano, varco portuale di Levante</address>
+        <zipCode>54033</zipCode>
+        <city>Marina di Carrara</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="claudio.cerniglia">
+      <firstName>Claudio</firstName>
+      <lastName>Cerniglia</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>claudio.cerniglia@grendi.it</email>
+        <phoneNumber>02576805.22</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="costanza.musso">
+      <firstName>Costanza</firstName>
+      <lastName>Musso</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>CEO</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>costanza.musso@grendi.it</email>
+        <phoneNumber>02576805.30</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="ewa.mlynska">
+      <firstName>Ewa</firstName>
+      <lastName>Mlynska</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>ewa.mlynska@grendi.it</email>
+        <phoneNumber>02576805.00</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="fausto.petro">
+      <firstName>Fausto</firstName>
+      <lastName>Petrò</lastName>
+      <title>Sig.</title>
+      <jobTitle>Operativo</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>fausto.petro@grendi.it</email>
+        <phoneNumber>02576805.35</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="marco.possa">
+      <firstName>Marco</firstName>
+      <lastName>Possa</lastName>
+      <title>Sig.</title>
+      <jobTitle>IT</jobTitle>
+      <manager>antonio.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>marco.possa@grendi.it</email>
+        <phoneNumber>02576805.23</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="marco.mancuso">
+      <firstName>Marco</firstName>
+      <lastName>Mancuso</lastName>
+      <title>Sig.</title>
+      <jobTitle>Commerciale</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>marco.mancuso@grendi.it</email>
+        <phoneNumber>02576805.34</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="simona.refraschini">
+      <firstName>Simona</firstName>
+      <lastName>Re Fraschini</lastName>
+      <title>Sig.ra</title>
+      <jobTitle>Commerciale</jobTitle>
+      <manager>costanza.musso</manager>
+      <personalData/>
+      <professionalData>
+        <email>simona.refraschini@grendi.it</email>
+        <phoneNumber>02576805.24</phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>Via Lambro, 44</address>
+        <zipCode>20090</zipCode>
+        <city>Opera</city>
+        <state>ITA</state>
+        <country>Italia</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+  </users>
+  <roles>
+    <role name="member">
+      <displayName>Member</displayName>
+      <description></description>
+    </role>
+  </roles>
+  <groups>
+    <group name="grendi">
+      <displayName>Grendi</displayName>
+      <description>Gruppo GRENDI</description>
+    </group>
+    <group name="commerciale_mi" parentPath="/grendi/sede_milano">
+      <displayName>Commerciale MI</displayName>
+      <description>Commerciale MI</description>
+    </group>
+    <group name="commerciale_bo" parentPath="/grendi/sede_bologna">
+      <displayName>Commerciale BO</displayName>
+      <description>Commerciale BO</description>
+    </group>
+    <group name="commerciale_ge" parentPath="/grendi/sede_genova">
+      <displayName>Commerciale GE</displayName>
+      <description>Commerciale GE</description>
+    </group>
+    <group name="amministrazione_bo" parentPath="/grendi/sede_bologna">
+      <displayName>Amministrazione BO</displayName>
+      <description>Amministrazione e Finanza BO</description>
+    </group>
+    <group name="amministrazione_ge" parentPath="/grendi/sede_genova">
+      <displayName>Amministrazione GE</displayName>
+      <description>Amministrazione e Finanza GE</description>
+    </group>
+    <group name="trasporti" parentPath="/grendi">
+      <displayName>Trasporti</displayName>
+      <description>Trasporti</description>
+    </group>
+    <group name="hr" parentPath="/grendi/sede_genova">
+      <displayName>HR</displayName>
+      <description>Human Resources</description>
+    </group>
+    <group name="customer" parentPath="/grendi/sede_milano">
+      <displayName>Customer Service</displayName>
+      <description>Customer Service</description>
+    </group>
+    <group name="it" parentPath="/grendi/sede_milano">
+      <displayName>IT</displayName>
+      <description>IT</description>
+    </group>
+    <group name="milano" parentPath="/grendi/trasporti">
+      <displayName>Milano</displayName>
+      <description>Filiale Milano</description>
+    </group>
+    <group name="bologna" parentPath="/grendi/trasporti">
+      <displayName>Bologna</displayName>
+      <description>Filiale Bologna</description>
+    </group>
+    <group name="cagliari" parentPath="/grendi/trasporti">
+      <displayName>Cagliari</displayName>
+      <description>Filiale Cagliari</description>
+    </group>
+    <group name="genova" parentPath="/grendi/trasporti">
+      <displayName>Genova</displayName>
+      <description>Filiale Genova</description>
+    </group>
+    <group name="mdc" parentPath="/grendi/trasporti">
+      <displayName>MDC</displayName>
+      <description>MDC</description>
+    </group>
+    <group name="sede_milano" parentPath="/grendi">
+      <displayName>Sede Milano</displayName>
+      <description>Sede Milano</description>
+    </group>
+    <group name="sede_bologna" parentPath="/grendi">
+      <displayName>Sede Bologna</displayName>
+      <description>Sede Bologna</description>
+    </group>
+    <group name="sede_genova" parentPath="/grendi">
+      <displayName>Sede Genova</displayName>
+      <description>Sede Genova</description>
+    </group>
+    <group name="sede_cagliari" parentPath="/grendi">
+      <displayName>Sede Cagliari</displayName>
+      <description>Sede Cagliari</description>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>andrea.caccioni</userName>
+      <roleName>member</roleName>
+      <groupName>commerciale_bo</groupName>
+      <groupParentPath>/grendi/sede_bologna</groupParentPath>
+    </membership>
+    <membership>
+      <userName>giulia.mantovani</userName>
+      <roleName>member</roleName>
+      <groupName>amministrazione_bo</groupName>
+      <groupParentPath>/grendi/sede_bologna</groupParentPath>
+    </membership>
+    <membership>
+      <userName>guglielmo.tarantino</userName>
+      <roleName>member</roleName>
+      <groupName>bologna</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>angelo.melis</userName>
+      <roleName>member</roleName>
+      <groupName>cagliari</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>antonio.musso</userName>
+      <roleName>member</roleName>
+      <groupName>grendi</groupName>
+    </membership>
+    <membership>
+      <userName>emanuele.demetrino</userName>
+      <roleName>member</roleName>
+      <groupName>cagliari</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>roberto.leoni</userName>
+      <roleName>member</roleName>
+      <groupName>cagliari</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>emilio.rizzo</userName>
+      <roleName>member</roleName>
+      <groupName>commerciale_ge</groupName>
+      <groupParentPath>/grendi/sede_genova</groupParentPath>
+    </membership>
+    <membership>
+      <userName>enrico.scalzi</userName>
+      <roleName>member</roleName>
+      <groupName>genova</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>guido.calvi</userName>
+      <roleName>member</roleName>
+      <groupName>genova</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>irene.sassanelli</userName>
+      <roleName>member</roleName>
+      <groupName>amministrazione_ge</groupName>
+      <groupParentPath>/grendi/sede_genova</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sabrina.passione</userName>
+      <roleName>member</roleName>
+      <groupName>amministrazione_ge</groupName>
+      <groupParentPath>/grendi/sede_genova</groupParentPath>
+    </membership>
+    <membership>
+      <userName>severina.puddu</userName>
+      <roleName>member</roleName>
+      <groupName>amministrazione_ge</groupName>
+      <groupParentPath>/grendi/sede_genova</groupParentPath>
+    </membership>
+    <membership>
+      <userName>simona.casto</userName>
+      <roleName>member</roleName>
+      <groupName>hr</groupName>
+      <groupParentPath>/grendi/sede_genova</groupParentPath>
+    </membership>
+    <membership>
+      <userName>luca.ferrando</userName>
+      <roleName>member</roleName>
+      <groupName>mdc</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>giulio.assente</userName>
+      <roleName>member</roleName>
+      <groupName>mdc</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>pasquale.surace</userName>
+      <roleName>member</roleName>
+      <groupName>mdc</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>claudio.cerniglia</userName>
+      <roleName>member</roleName>
+      <groupName>milano</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>costanza.musso</userName>
+      <roleName>member</roleName>
+      <groupName>grendi</groupName>
+    </membership>
+    <membership>
+      <userName>ewa.mlynska</userName>
+      <roleName>member</roleName>
+      <groupName>customer</groupName>
+      <groupParentPath>/grendi/sede_milano</groupParentPath>
+    </membership>
+    <membership>
+      <userName>fausto.petro</userName>
+      <roleName>member</roleName>
+      <groupName>milano</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marco.possa</userName>
+      <roleName>member</roleName>
+      <groupName>it</groupName>
+      <groupParentPath>/grendi/sede_milano</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marco.mancuso</userName>
+      <roleName>member</roleName>
+      <groupName>commerciale_mi</groupName>
+      <groupParentPath>/grendi/sede_milano</groupParentPath>
+    </membership>
+    <membership>
+      <userName>simona.refraschini</userName>
+      <roleName>member</roleName>
+      <groupName>commerciale_mi</groupName>
+      <groupParentPath>/grendi/sede_milano</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marco.mancuso</userName>
+      <roleName>member</roleName>
+      <groupName>milano</groupName>
+      <groupParentPath>/grendi/trasporti</groupParentPath>
+    </membership>
+  </memberships>
+</organization:Organization>
