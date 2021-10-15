@@ -1,0 +1,266 @@
+{
+  "modelVersion" : "2.2",
+  "previousArtifactVersion" : "2.0",
+  "id" : "userApp",
+  "name" : "userApp",
+  "lastUpdate" : 1634304822853,
+  "rows" : [
+    [
+      {
+        "type" : "container",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          },
+          "repeatedCollection" : {
+            "type" : "variable",
+            "value" : ""
+          }
+        },
+        "reference" : "68cbec7b-2d60-4bc8-8498-fbd1bfd26359",
+        "hasValidationError" : false,
+        "id" : "pbContainer",
+        "rows" : [
+          [ ]
+        ]
+      }
+    ],
+    [
+      {
+        "type" : "component",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          },
+          "text" : {
+            "type" : "interpolation",
+            "value" : "Nuova Richiesta"
+          },
+          "type" : {
+            "type" : "constant",
+            "value" : "URL"
+          },
+          "targetUrl" : {
+            "type" : "expression",
+            "value" : "js"
+          },
+          "pageToken" : {
+            "type" : "constant"
+          },
+          "processName" : {
+            "type" : "constant"
+          },
+          "processVersion" : {
+            "type" : "constant"
+          },
+          "taskId" : {
+            "type" : "constant"
+          },
+          "caseId" : {
+            "type" : "constant"
+          },
+          "target" : {
+            "type" : "constant",
+            "value" : "_self"
+          },
+          "appToken" : {
+            "type" : "constant"
+          },
+          "urlParams" : {
+            "type" : "constant"
+          },
+          "alignment" : {
+            "type" : "constant",
+            "value" : "center"
+          },
+          "buttonStyle" : {
+            "type" : "constant",
+            "value" : "primary"
+          }
+        },
+        "reference" : "fc833306-6bed-4eb6-9ad1-7d5372bf5768",
+        "hasValidationError" : false,
+        "id" : "pbLink"
+      }
+    ],
+    [
+      {
+        "type" : "container",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          },
+          "repeatedCollection" : {
+            "type" : "variable",
+            "value" : ""
+          }
+        },
+        "reference" : "f5d57c57-708d-4dfb-89dd-b05c687c822a",
+        "hasValidationError" : false,
+        "id" : "pbContainer",
+        "rows" : [
+          [ ]
+        ]
+      }
+    ],
+    [
+      {
+        "type" : "component",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          },
+          "text" : {
+            "type" : "interpolation",
+            "value" : "Storico Richieste"
+          },
+          "type" : {
+            "type" : "constant",
+            "value" : "URL"
+          },
+          "targetUrl" : {
+            "type" : "expression",
+            "value" : "js2"
+          },
+          "pageToken" : {
+            "type" : "constant"
+          },
+          "processName" : {
+            "type" : "constant"
+          },
+          "processVersion" : {
+            "type" : "constant"
+          },
+          "taskId" : {
+            "type" : "constant"
+          },
+          "caseId" : {
+            "type" : "constant"
+          },
+          "target" : {
+            "type" : "constant",
+            "value" : "_self"
+          },
+          "appToken" : {
+            "type" : "constant"
+          },
+          "urlParams" : {
+            "type" : "constant"
+          },
+          "alignment" : {
+            "type" : "constant",
+            "value" : "center"
+          },
+          "buttonStyle" : {
+            "type" : "constant",
+            "value" : "primary"
+          }
+        },
+        "reference" : "34addbaa-4a28-4085-bfe5-06e866f796c5",
+        "hasValidationError" : false,
+        "id" : "pbLink"
+      }
+    ]
+  ],
+  "assets" : [
+    {
+      "id" : "c42b10e1-460a-48d4-bbb3-a554b8047a49",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "6db20d10-da63-459a-a1c9-a8264e2ef0bb",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "variables" : {
+    "API" : {
+      "type" : "url",
+      "value" : [
+        "/bonita/API/bpm/process?c=1&p=0&f=name=Create%20expense%20report&o=deploymentDate"
+      ],
+      "exposed" : false
+    },
+    "js" : {
+      "type" : "expression",
+      "value" : [
+        "if ($data.API && $data.API.length) {\r",
+        "var process = $data.API[0];\r",
+        "return \"/bonita/portal/resource/process/\"+ encodeURI(process.name) +\"/\" + process.version + \"/content/?id=\" + process.id +\"&senderUrl=\"+ window.top.location.href;\r",
+        "}"
+      ],
+      "exposed" : false
+    },
+    "API2" : {
+      "type" : "url",
+      "value" : [
+        "/bonita/API/bpm/process?c=1&p=0&f=name=Edit%20expense%20report&o=deploymentDate"
+      ],
+      "exposed" : false
+    },
+    "js2" : {
+      "type" : "expression",
+      "value" : [
+        "if ($data.API2 && $data.API2.length) {\r",
+        "var process = $data.API2[0];\r",
+        "return \"/bonita/portal/resource/process/\"+ encodeURI(process.name) +\"/\" + process.version + \"/content/?id=\" + process.id +\"&senderUrl=\"+ window.top.location.href;\r",
+        "}"
+      ],
+      "exposed" : false
+    }
+  },
+  "hasValidationError" : false,
+  "uuid" : "7a925475-5f21-4636-89c9-5acda60855a2",
+  "type" : "page",
+  "description" : "Page generated with Bonita UI designer"
+}
