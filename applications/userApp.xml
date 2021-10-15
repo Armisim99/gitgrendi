@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applications xmlns="http://documentation.bonitasoft.com/application-xml-schema/1.0">
+    <application token="userApp" version="2.1" profile="User" homePage="prova" state="ACTIVATED" layout="custompage_BonitaLayoutV6" theme="custompage_themeBonita">
+        <displayName>UserApp</displayName>
+        <applicationPages>
+            <applicationPage customPage="custompage_UserCaseDetailsBonitaV1" token="case-details"/>
+            <applicationPage customPage="custompage_prova" token="prova"/>
+        </applicationPages>
+        <applicationMenus>
+            <applicationMenu applicationPage="prova">
+                <displayName>Richieste-Storico</displayName>
+            </applicationMenu>
+        </applicationMenus>
+    </application>
+</applications>

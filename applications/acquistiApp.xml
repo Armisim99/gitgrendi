@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applications xmlns="http://documentation.bonitasoft.com/application-xml-schema/1.0">
+    <application token="acquistiApp" version="2.1" profile="User" homePage="task-list" state="ACTIVATED" layout="custompage_BonitaLayoutV6" theme="custompage_themeBonita">
+        <displayName>Acquisti App</displayName>
+        <applicationPages>
+            <applicationPage customPage="custompage_UserCaseDetailsBonitaV1" token="case-details"/>
+            <applicationPage customPage="custompage_tasklist" token="task-list"/>
+            <applicationPage customPage="custompage_UserCaseListBonitaV3" token="case-list"/>
+        </applicationPages>
+        <applicationMenus>
+            <applicationMenu applicationPage="task-list">
+                <displayName>Tasks</displayName>
+            </applicationMenu>
+            <applicationMenu applicationPage="case-list">
+                <displayName>Cases</displayName>
+            </applicationMenu>
+        </applicationMenus>
+    </application>
+</applications>
